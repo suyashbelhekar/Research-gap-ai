@@ -2,6 +2,8 @@
 Research Gap Ai is Web Application to assist About Research Paper. Summarizing, Literature Survey, Comparing Two papers , Find the uniqueness. 
 Introducing ResearchGap ai — An AI-Powered Research Analysis Platform
 
+You can see it here: https://suyashbelhekar.github.io/Research-gap-ai/
+
 I’m excited to present ResearchGap ai, an AI-driven tool I built to simplify and accelerate the research process for students, researchers, and academics.
 
 Modern research demands reading and analyzing multiple papers, identifying research gaps, comparing existing work, and evaluating novelty — a process that is often time-consuming and complex. ResearchGap ai is designed to address these challenges by transforming raw research papers into meaningful, actionable insights within seconds.
